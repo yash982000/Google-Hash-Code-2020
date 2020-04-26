@@ -10,6 +10,7 @@
 ## More Pizza 🍕
 ### Solution for the Practice Round of Google Hash Code 2020 - Score: 1,505,004,616
 
+
 <img src="Images/More Pizza.jpg">
   
 ## The solution
