@@ -11,7 +11,7 @@
 ### Solution for the Practice Round of Google Hash Code 2020 - Score: 1,505,004,616
 
 <img src="Images/More Pizza.jpg">
-
+  
 ## The solution
 
 > This code gives perfect score but the code is not the perfect and it can be optimized and bugs fixed in the future.
